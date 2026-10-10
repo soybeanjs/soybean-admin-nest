@@ -57,17 +57,17 @@
 
 ## 示例图片
 
-![](https://soybeanjs-1300612522.cos.ap-guangzhou.myqcloud.com/uPic/soybean-admin-v1-01.png)
-![](https://soybeanjs-1300612522.cos.ap-guangzhou.myqcloud.com/uPic/soybean-admin-v1-02.png)
-![](https://soybeanjs-1300612522.cos.ap-guangzhou.myqcloud.com/uPic/soybean-admin-v1-03.png)
-![](https://soybeanjs-1300612522.cos.ap-guangzhou.myqcloud.com/uPic/soybean-admin-v1-04.png)
-![](https://soybeanjs-1300612522.cos.ap-guangzhou.myqcloud.com/uPic/soybean-admin-v1-05.png)
-![](https://soybeanjs-1300612522.cos.ap-guangzhou.myqcloud.com/uPic/soybean-admin-v1-06.png)
-![](https://soybeanjs-1300612522.cos.ap-guangzhou.myqcloud.com/uPic/soybean-admin-v1-07.png)
-![](https://soybeanjs-1300612522.cos.ap-guangzhou.myqcloud.com/uPic/soybean-admin-v1-08.png)
-![](https://soybeanjs-1300612522.cos.ap-guangzhou.myqcloud.com/uPic/soybean-admin-v1-09.png)
-![](https://soybeanjs-1300612522.cos.ap-guangzhou.myqcloud.com/uPic/soybean-admin-v1-10.png)
-![](https://soybeanjs-1300612522.cos.ap-guangzhou.myqcloud.com/uPic/soybean-admin-v1-mobile.png)
+![](https://img.soybeanjs.dev/soybean-admin-v1-01.png)
+![](https://img.soybeanjs.dev/soybean-admin-v1-02.png)
+![](https://img.soybeanjs.dev/soybean-admin-v1-03.png)
+![](https://img.soybeanjs.dev/soybean-admin-v1-04.png)
+![](https://img.soybeanjs.dev/soybean-admin-v1-05.png)
+![](https://img.soybeanjs.dev/soybean-admin-v1-06.png)
+![](https://img.soybeanjs.dev/soybean-admin-v1-07.png)
+![](https://img.soybeanjs.dev/soybean-admin-v1-08.png)
+![](https://img.soybeanjs.dev/soybean-admin-v1-09.png)
+![](https://img.soybeanjs.dev/soybean-admin-v1-10.png)
+![](https://img.soybeanjs.dev/soybean-admin-v1-mobile.png)
 
 
 ## 使用
@@ -149,24 +149,12 @@ pnpm build
 
 ## 交流
 
-`SoybeanAdmin` 是完全开源免费的项目，在帮助开发者更方便地进行中大型管理系统开发，同时也提供微信和 QQ 交流群，使用问题欢迎在群内提问。
+`SoybeanAdmin` 是完全开源免费的项目，在帮助开发者更方便地进行中大型管理系统开发，同时提供飞书群供大家交流，使用问题欢迎在群内提问。
 
-  <div>
-  	<p>QQ交流群</p>
-    <img src="https://soybeanjs-1300612522.cos.ap-guangzhou.myqcloud.com/uPic/qq-soybean-admin-2.jpg" style="width:200px" />
-  </div>
-	<!-- <div>
-		<p>微信群</p>
-		<img src="https://soybeanjs-1300612522.cos.ap-guangzhou.myqcloud.com/uPic/wechat-0402.jpg" style="width:200px" />
-	</div> -->
-	<div>
-		<p>添加下面微信邀请进微信群</p>
-		<img src="https://soybeanjs-1300612522.cos.ap-guangzhou.myqcloud.com/uPic/wechat-soybeanjs.jpg" style="width:200px" />
-	</div>
-  <div>
-    <p>添加 Soybean 的微信，业务咨询、合作、项目架构、一对一指导等</p>
-    <img src="https://soybeanjs-1300612522.cos.ap-guangzhou.myqcloud.com/uPic/wechat-soybean.jpg" style="width:200px" />
-  </div>
+<div>
+  <p>飞书群</p>
+  <img src="https://img.soybeanjs.dev/soybean-admin-feishu.png?v=202610092025" style="width:200px" />
+</div>
 
 ## Star 趋势
 
